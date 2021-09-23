@@ -5,7 +5,6 @@ Welcome custom FIREWALL module. This is aiming towards managing system firewall 
 The README template below provides a starting point with details about what
 information to include in your README.
 
-https://github.com/voxpupuli/puppet-firewalld/blob/master/manifests/init.pp
 
 ## Table of Contents
 
