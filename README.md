@@ -11,7 +11,7 @@ https://github.com/voxpupuli/puppet-firewalld/blob/master/manifests/init.pp
 
 1. [Description](#description)
 2. [Pre-requisites](#pre-requisites)
-3. [Resource Types](#Resource Types)
+3. [ResourceTypes](#resource-types)
 
 ## Description
 
@@ -25,7 +25,7 @@ Starting point to manage your Linux firewall.
 
 2. Install this module only on systemd based systems where one want to manage firewall using firewall-cmd command. 
 
-## Resource Types
+## Resource-types
 
 This module supports a number of resource types:
 
